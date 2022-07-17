@@ -1,1 +1,1 @@
-print("mina says hi")
+print("Mina says hi")
