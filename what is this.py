@@ -14,7 +14,7 @@ async def main1():
 
 
 async def main2():
-    print(f"What you might not know is, this is currently on {sys.version}")
+    print(f"What you might not know is, this is currently on python version {sys.version}")
     await asyncio.sleep(1)
     print("Wow!")
 
