@@ -12,3 +12,5 @@ print('hello from gvsa123')
 '''
 
 # and then i added a few more of these.
+
+# okay... so this is the next day now and i make edits.
