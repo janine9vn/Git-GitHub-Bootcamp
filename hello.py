@@ -1,3 +1,5 @@
-print("hello world")
-print("This file is on a diffrent branch")
+print("hello world and supreme nerds")
+print("This file is on a different branch")
 print("It was merged")
+l = input("WHAT IS YOUR NAME!??!?\n")
+print("Welcome to the powerful world of git,", l)
