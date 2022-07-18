@@ -23,3 +23,11 @@ async def main3():
     print(f"Another cool thing you might not know, is this is running in the directory: {os.getcwd()}")
     await asyncio.sleep(1)
     print("Fancy, fancy!")
+
+
+async def main():
+    await main1()
+    await main2()
+    await main3()
+
+loop.run_until_complete(main())
