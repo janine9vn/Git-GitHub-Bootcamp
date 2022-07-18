@@ -11,3 +11,9 @@ async def main1():
     print("This is my amazing file that is, wait for it, asynchronous!")
     await asyncio.sleep(1)
     print("Pretty cool right?")
+
+
+async def main2():
+    print(f"What you might not know is, this is currently on {sys.version}")
+    await asyncio.sleep(1)
+    print("Wow!")
