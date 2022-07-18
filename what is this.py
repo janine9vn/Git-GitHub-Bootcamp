@@ -17,3 +17,9 @@ async def main2():
     print(f"What you might not know is, this is currently on {sys.version}")
     await asyncio.sleep(1)
     print("Wow!")
+
+
+async def main3():
+    print(f"Another cool thing you might not know, is this is running in the directory: {os.getcwd()}")
+    await asyncio.sleep(1)
+    print("Fancy, fancy!")
