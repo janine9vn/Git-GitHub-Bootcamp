@@ -19,6 +19,8 @@ GitHub has instructions for merging:
 
 Just replace Asterisk-... with the bracnch you made.
 
+Now find out that they don't work on this repo as main is protected and just end up using the button!
+
 Now you're ready to have free reign over the repo!
 
 Just remember to HAVE FUN!
