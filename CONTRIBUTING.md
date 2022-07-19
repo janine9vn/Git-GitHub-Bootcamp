@@ -2,6 +2,7 @@
 
 # Contributing
 The main branch is protected so this will help teach you about branches, pull requests and merging, it's really quite simple!
+EDIT: There are now some useful links in the readme for new git users.
 
 Here, you can do whatever you want in your branch!
 
@@ -13,6 +14,8 @@ Now you have a copy of the code! In the terminal you can switch with: `git branc
 
 Your IDE should also give you warnings and instructions about merging as well.
 GitHub has instructions for merging:
+
+
 
 ![image](https://user-images.githubusercontent.com/83875983/179559350-d659855b-2a3d-402b-b8f0-e7021f9c8fa8.png)
 
