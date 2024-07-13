@@ -1,1 +1,14 @@
-export BRANCH="hello2"\nexport FILENAME="hi1.py"\ngit clone https://github.com/janine9vn/Git-GitHub-Bootcamp.git\ncd Git-GitHub-Bootcamp\ngit checkout -b $BRANCH\necho "print(dir())" >> add_file_here/$FILENAME\ngit add .\ngit commit -m "Hi"\ngit push origin $BRANCH\ngh pr create -a @me -B main -H $BRANCH -t Hi -b ""\ncd -\nrm -rf Git-GitHub-Bootcamp
+export BRANCH="speedrun"
+export FILENAME="speedrun.sh"
+export CONTENT=""
+git clone https://github.com/janine9vn/Git-GitHub-Bootcamp.git
+cd Git-GitHub-Bootcamp
+git checkout -b $BRANCH
+echo $CONTENT >> add_file_here/$FILENAME
+git add .
+git commit -m "Hi"
+git push origin $BRANCH
+gh pr create -a @me -B main -H $BRANCH -t Hi -b ""
+gh pr merge --auto -m -d
+cd -
+rm -rf Git-GitHub-Bootcamp
