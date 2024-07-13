@@ -1,2 +1,6 @@
 while True:
-    print('Cry')
+    try:
+        print('Cry')
+    except KeyboardInterrupt:
+        # Nah, not possible
+        ...
