@@ -7,3 +7,6 @@ A repo for people to experiment and use while they become familair with using Gi
 - https://ohshitgit.com/
 - http://justinhileman.info/article/git-pretty/full/
 - [CONTRIBUTING.md (pls read)](https://github.com/janine9vn/Git-GitHub-Bootcamp/blob/main/CONTRIBUTING.md)
+
+
+Hi
