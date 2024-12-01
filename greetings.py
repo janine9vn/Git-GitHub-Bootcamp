@@ -6,3 +6,5 @@ username = os.popen("git config -l | grep user.name=").read()
 username = username[10:-1]
 
 print(f"Greetings git user {username}!")
+
+# More comments
